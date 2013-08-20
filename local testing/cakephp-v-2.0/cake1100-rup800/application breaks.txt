@@ -1,0 +1,4 @@
+here error msg is displayed on exe file.
+
+Uncaught Exception java.lang.OutOfMemoryError: unable to create new native threa
+d. See log file for details.
